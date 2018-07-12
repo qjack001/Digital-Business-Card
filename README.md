@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://bit.ly/2NJfQ07"><img src="https://raw.githubusercontent.com/qjack001/Digital-Business-Card/master/assets/dbc-logo.png" alt="DBC Logo" width="200"></a>
+  <a href="https://bit.ly/2NJfQ07"><img src="https://raw.githubusercontent.com/qjack001/Digital-Business-Card/master/assets/dbc-logo-rotated.png" alt="DBC Logo" width="200"></a>
   <br>
   <a href="https://bit.ly/2NJfQ07">Digital Business Card</a>
 </h1>
