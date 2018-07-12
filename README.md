@@ -5,6 +5,15 @@
   <a href="https://bit.ly/2NJfQ07">Digital Business Card</a>
 </h1>
 
+<p align="center">
+  <a href="#description">Description</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#linking">Linking</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#authors">Authors</a> •
+  <a href="#license">License</a>
+</p>
+
 ## Description
 Digital Business Card is a super-small website providing a quick description of what I do, and relevant links. 
 It was created with [Itty Bitty](https://github.com/alcor/itty-bitty/) as an experiment in small website design. 
@@ -34,3 +43,6 @@ Thanks to [Nicholas Jitkoff](https://github.com/alcor) for the development of [I
 
 ## Authors
 [**Jack Guinane**](https://github.com/qjack001) - Design and development
+
+## License
+This project is licensed under the Apache License 2.0
