@@ -6,8 +6,15 @@ It was created with [Itty Bitty](https://github.com/alcor/itty-bitty/) as an exp
 The entirety of the website is stored in the URL, and generated cleint-side on page load.
 It can be accsessed from this link: https://bit.ly/2NJfQ07
 
+Digital Business Card is a super-small website providing a quick description of what I do, and relevant links. 
+It was created with [Itty Bitty](https://github.com/alcor/itty-bitty/) as an experiment in small website design. 
+The entirety of the website is stored in the URL, and generated client-side on page-load. 
+It can be accessed from this link: https://bit.ly/2NJfQ07
+
 ## Contributing
-To add to this project, or to use it to start your own, download the index.html file and edit that. Then drag the new file into the [Itty Bitty editor](https://itty.bitty.site/edit) to genorate the new URL. Since all the website data is hosted inside the URL, there is no way to alter the website at the current link (the current link *is* the website).
+To add to this project, or to use it to start your own, download the index.html file and edit that. 
+Then drag the new file into the [Itty Bitty editor](https://itty.bitty.site/edit) to generate the new URL. 
+Since all the website data is hosted inside the URL, there is no way to alter the website at the current link (the current link *is* the website).
 
 ## Linking
 The full URL is quite long (as it contains the entire website), so it may be more practical to use the shortened link. A QR code can also be used.
