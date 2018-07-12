@@ -18,7 +18,7 @@
 Digital Business Card is a super-small website providing a quick description of what I do, and relevant links. 
 It was created with [Itty Bitty](https://github.com/alcor/itty-bitty/) as an experiment in small website design. 
 The entirety of the website is stored in the URL, and generated client-side on page-load. 
-It can be accessed from this link: https://bit.ly/2NJfQ07
+It can be accessed from **this link: https://bit.ly/2NJfQ07**
 
 ![screenshot](https://raw.githubusercontent.com/qjack001/Digital-Business-Card/master/assets/screenshot.png)
 
