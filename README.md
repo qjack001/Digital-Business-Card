@@ -45,4 +45,4 @@ Thanks to [Nicholas Jitkoff](https://github.com/alcor) for the development of [I
 [**Jack Guinane**](https://github.com/qjack001) - Design and development
 
 ## License
-This project is licensed under the Apache License 2.0
+This project is licensed under the Apache License 2.0 - see the LICENSE.md file for details.
